@@ -1,4 +1,4 @@
-##🛡️ Captcha Verification Web App
+🛡️ Captcha Verification Web App
 A simple client-side CAPTCHA verification app built with HTML, CSS, and JavaScript. This project generates a random alphanumeric CAPTCHA and validates user input to ensure correct verification before proceeding.
 
 🚀 Features
@@ -11,14 +11,14 @@ Input validation and success/failure message
 Stylish and responsive UI
 
 📁 Project Structure
-
+graphql
+Copy
+Edit
 Captcha_Verification/
 │
 ├── index.html        # Main HTML structure
 ├── style.css         # Styling for the CAPTCHA interface
 └── app.js            # JavaScript for CAPTCHA generation and validation
-
-
 🔧 How It Works
 When the page loads, a random 6-character CAPTCHA is generated and displayed.
 
@@ -32,14 +32,12 @@ If not matched, an error message is displayed.
 
 The Reload button allows users to generate a new CAPTCHA.
 
-
 📦 Setup Instructions
 Clone the repository or download the ZIP.
 
 Open the index.html file in a web browser.
 
 Try out the CAPTCHA by entering the displayed characters and clicking Check.
-
 
 🖼️ UI Preview
 ✨ Simple and centered layout with bold CAPTCHA display
@@ -62,4 +60,3 @@ Great for understanding DOM manipulation and event handling in JavaScript.
 
 📜 License
 This project is open-source and available under the MIT License.
-
