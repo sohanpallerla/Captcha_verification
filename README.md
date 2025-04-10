@@ -1,4 +1,4 @@
-🛡️ Captcha Verification Web App
+##🛡️ Captcha Verification Web App
 A simple client-side CAPTCHA verification app built with HTML, CSS, and JavaScript. This project generates a random alphanumeric CAPTCHA and validates user input to ensure correct verification before proceeding.
 
 🚀 Features
